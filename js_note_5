@@ -1,0 +1,57 @@
+# AJAX
+
+- AJAX的意义，依靠什么对象
+
+- AJAX有哪些安全限制
+
+- 如何使用JavaScript跨域
+
+- 如何使用CORS进行跨域
+
+# Promise
+
+- 如何使用promise执行函数
+
+- promise的好处
+
+- 如何把AJAX异步执行函数转换为Promise对象
+
+- 如何使用promise并行执行异步任务
+
+# jQuery
+
+- jQuery的好处
+
+- 使用jQuery如何引入
+
+- jQuery的$是什么
+
+- 如何取消jQuery对$变量的占用
+
+# 选择器
+
+- 什么是jQuery对象，如何和dom对象相互转换
+
+# 查找和过滤
+
+- 如何使用jQuery对象进行查找
+
+- 如何对jQuery对象进行过滤
+
+# 操作dom
+
+- 如何修改修改Text和HTML
+
+- 如何使用jQuery对象修改和获取css属性
+
+- 如何获取jQuery对象的高宽信息
+
+- 如何利用jQuery操作和获取DOM的属性
+
+- 如何用jQuery对象获取和设置表单的value
+
+# 修改DOM结构
+
+- 如何用jQuery添加和移动DOM节点
+
+- 如何用jQuery删除节点
