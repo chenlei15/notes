@@ -1,0 +1,66 @@
+# 错误处理
+
+- JavaScript如何处理错误
+
+- 如何主动抛出错误
+
+# 异步错误处理
+
+- 调用异步函数时，错误是怎么处理的
+
+# underscore
+
+- 什么是underscore， 如何使用
+
+# underscore>Collections
+
+- underscore的map()和filter()方法用处和使用方法
+
+- underscore的every和some的作用和用法
+
+- underscore的max / min函数的作用和用法
+
+- underscore的groupBy函数的作用和用法
+
+- underscore的shuffle / sample函数的作用和用法
+
+# underscore>Arrays
+- underscore的first / last函数的作用
+
+- underscore的flatten函数的作用
+
+- underscore的zip / unzip函数的作用
+
+- underscore的object函数的作用
+
+- underscore的range函数的作用
+
+# underscore>Functions
+
+- underscore的bind函数的作用
+
+- underscore的partial函数的作用 
+
+- underscore的memoize函数的作用
+
+- underscore的once函数的作用
+
+- underscore的delay函数的作用
+
+- underscore的Objects函数的作用
+
+# underscore>Objects
+
+- underscore的keys / allKeys 函数的作用
+
+- underscore的 values 函数的作用
+
+- underscore的 mapObject 函数的作用
+
+- underscore的 invert 函数的作用 
+
+- underscore的 extend / extendOwn 函数的作用 
+
+- underscore的 clone 函数的作用 
+
+- underscore的 isEqual 函数的作用 
