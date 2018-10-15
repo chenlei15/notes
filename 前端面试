@@ -33,5 +33,10 @@ http://web.jobbole.com/87766/
 3 缓存
 
 彻底理解浏览器缓存机制
-
 https://www.cnblogs.com/shixiaomiao1122/p/7591556.html
+
+http 缓存：
+https://www.cnblogs.com/vajoy/p/5341664.html
+
+web性能优化之：no-cache与must-revalidate深入探究
+https://www.cnblogs.com/chyingp/p/no-cache-vs-must-revalidate.html
