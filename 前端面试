@@ -47,3 +47,19 @@ https://ruby-china.org/topics/20058
 4 web
 HTMLElement.offsetLeft
 https://developer.mozilla.org/zh-CN/docs/Web/API/HTMLElement/offsetLeft
+
+使用 HTTP 缓存机制提升系统性能
+https://ruby-china.org/topics/20058
+
+浅谈 JS 对象添加 getter与 setter 的5种方法以及如何让对象属性不可配置或枚举
+https://segmentfault.com/a/1190000003882976
+
+TypeScript 类
+https://ts.xcatliu.com/advanced/class.html
+
+ES5和ES6中的继承
+http://keenwon.com/1524.html
+
+ES6 模块
+http://es6.ruanyifeng.com/#docs/module
+
