@@ -103,3 +103,23 @@ https://www.ibm.com/developerworks/cn/web/wa-lo-web-develop-edge-tool/index.html
 
 webpack文档
 https://webpack.docschina.org/guides/getting-started/#%E5%9F%BA%E6%9C%AC%E5%AE%89%E8%A3%85
+
+webpack文档 - 概念
+https://webpack.docschina.org/concepts/
+
+SplitChunksPlugin
+https://webpack.docschina.org/plugins/split-chunks-plugin/
+
+manifest
+https://webpack.docschina.org/concepts/manifest/
+
+
+显微镜下的webpack4入门
+https://juejin.im/post/5bc0682be51d450e47144ce4
+
+npm中文文档
+https://www.npmjs.com.cn/
+
+2018前端面试总结
+https://juejin.im/post/5b94d8965188255c5a0cdc02#heading-73
+
