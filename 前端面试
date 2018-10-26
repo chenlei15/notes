@@ -129,13 +129,33 @@ https://www.imooc.com/article/7221
 
 
 
+webpack代码分割技巧
+
+https://foio.github.io/wepack-code-spliting/
+
+CSS font 属性
+http://www.w3school.com.cn/cssref/pr_font_font.asp
+
+利用canvas获取文本宽度
+http://jsfiddle.net/eNzjZ/1596/
+
+设置table固定列宽
+https://my.oschina.net/u/1044891/blog/392894
+
+
 todo:
 npm中文文档
 https://www.npmjs.com.cn/
 
 CommonJs
 
+require.ensure
+
 import()
+
+typescript详细
+
+polyfill
 
 async function
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
@@ -144,4 +164,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/asy
 
 AngularJS + Webpack = lazyLoad
 https://medium.com/@var_bin/angularjs-webpack-lazyload-bb7977f390dd
+
+pt，px，rem和em之间区别总结
+https://segmentfault.com/a/1190000004605022
+
 
