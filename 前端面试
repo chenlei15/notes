@@ -153,6 +153,25 @@ https://pjchender.blogspot.com/2017/01/html-5-data-attribute.html
 http://jsfiddle.net/thrilleratplay/epcybL4v/
 
 
+js运算符优先级
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+
+页面元素坐标和偏移（clientX/pageX/screenX/layerX/offsetWidth/scrollWidth/clientWidth等）
+http://www.cnblogs.com/skylar/p/4121508.html
+
+HTML <base> 标签
+http://www.w3school.com.cn/html5/att_base_href.asp
+http://www.w3school.com.cn/tags/tag_base.asp
+
+What is the meaning of <base href="/"> in angular 2
+https://www.quora.com/What-is-the-meaning-of-base-href-in-angular-2
+
+Angular CLI常用配置解说
+https://github.com/lizhonghui/blog/issues/21
+
+浏览器使用es6模块
+https://segmentfault.com/a/1190000011459870
+
 todo:
 npm中文文档
 https://www.npmjs.com.cn/
@@ -181,6 +200,7 @@ https://segmentfault.com/a/1190000004605022
 
 
 研究angular文档
+
 
 
 
