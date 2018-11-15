@@ -184,6 +184,42 @@ http://www.w3school.com.cn/htmldom/dom_obj_style.asp
 理解CSS3 max/min-content及fit-content等width值
 https://www.zhangxinxu.com/wordpress/2016/05/css3-width-max-contnet-min-content-fit-content/
 
+npm设置和取消代理的方法
+https://blog.csdn.net/yanzi1225627/article/details/80247758
+
+如何在Angular优雅编写HTTP请求
+https://segmentfault.com/a/1190000010570799
+
+rxjs理解操作符导入
+https://rxjs-cn.github.io/learn-rxjs-operators/concepts/operator-imports.html
+
+Spring 拦截器——HandlerInterceptor
+https://www.jianshu.com/p/dc5cc2e25ab2
+
+用Javascript获取页面元素的位置
+http://www.ruanyifeng.com/blog/2009/09/find_element_s_position_using_javascript.html
+
+Angular 6 HttpClient 快速入门
+http://semlinker.com/ng-http-client/
+
+一行代码实现数组去重（ES6）
+http://blog.csser.me/posts/E4B880E8A18CE4BBA3E7A081E5AE9EE78EB0E695B0E7BB84E58EBBE9878DEFBC88ES6EFBC89
+
+JavaScript concat() 方法
+http://www.w3school.com.cn/js/jsref_concat_array.asp
+
+玩转TypeScript(3)--类型转换
+https://www.cnblogs.com/lincats/p/3349069.html
+
+rxjs do / tap 操作符
+https://rxjs-cn.github.io/learn-rxjs-operators/operators/utility/do.html
+
+rxjs of操作符 （？应该会自动结束吧，不需要取消订阅）
+https://cn.rx.js.org/class/es6/Observable.js~Obserable.html#static-method-of
+
+rxjs interval
+https://rxjs-cn.github.io/learn-rxjs-operators/operators/creation/interval.html
+
 todo:
 npm中文文档
 https://www.npmjs.com.cn/
@@ -212,6 +248,14 @@ https://segmentfault.com/a/1190000004605022
 
 
 研究angular文档
+
+rxjs mergeMap(flatmap) ？（new Promise； promise 和rxjs流的关系； resultSelector）
+https://rxjs-cn.github.io/learn-rxjs-operators/operators/transformation/mergemap.html
+https://cn.rx.js.org/class/es6/Observable.js~Observable.html#instance-method-mergeMap
+
+
+
+
 
 
 
