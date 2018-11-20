@@ -220,6 +220,55 @@ https://cn.rx.js.org/class/es6/Observable.js~Obserable.html#static-method-of
 rxjs interval
 https://rxjs-cn.github.io/learn-rxjs-operators/operators/creation/interval.html
 
+
+display的flex和inline-flex属性区别
+http://570109268.iteye.com/blog/2412707
+
+pt，px，rem和em之间区别总结
+https://segmentfault.com/a/1190000004605022
+
+
+Observables Observer Subject 的概念
+https://cn.rx.js.org/manual/overview.html
+
+angular httpclient
+https://angular.cn/tutorial/toh-pt6
+
+Is it necessary to unsubscribe from observables created by Http methods?
+https://stackoverflow.com/questions/35042929/is-it-necessary-to-unsubscribe-from-observables-created-by-http-methods
+
+angular属性型指令
+https://angular.cn/guide/attribute-directives
+
+结构型指令
+https://angular.cn/guide/structural-directives
+
+Location 对象
+http://www.w3school.com.cn/jsref/dom_obj_location.asp
+
+Js中的window.parent ,window.top,window.self 详解
+https://blog.csdn.net/zdwzzu2006/article/details/6047632
+
+iframe 和windows
+https://blog.csdn.net/wangjun5159/article/details/78647615
+
+
+解决div里面img图片下方有空白的问题
+https://www.jianshu.com/p/2af064692505
+
+iframe 高度100%时，出现垂直滚动条
+https://blog.csdn.net/wangjun5159/article/details/72609970
+
+css3实现一个div设置多张背景图片及background-image属性
+https://www.haorooms.com/post/css3_bg_multi
+
+CSS background 属性
+http://www.w3school.com.cn/cssref/pr_background.asp
+
+css 同时设置background的position和size的方法
+https://www.w3schools.com/cssref/css3_pr_background.asp
+
+
 todo:
 npm中文文档
 https://www.npmjs.com.cn/
@@ -242,9 +291,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/asy
 AngularJS + Webpack = lazyLoad
 https://medium.com/@var_bin/angularjs-webpack-lazyload-bb7977f390dd
 
-pt，px，rem和em之间区别总结
-https://segmentfault.com/a/1190000004605022
-
 
 
 研究angular文档
@@ -252,6 +298,7 @@ https://segmentfault.com/a/1190000004605022
 rxjs mergeMap(flatmap) ？（new Promise； promise 和rxjs流的关系； resultSelector）
 https://rxjs-cn.github.io/learn-rxjs-operators/operators/transformation/mergemap.html
 https://cn.rx.js.org/class/es6/Observable.js~Observable.html#instance-method-mergeMap
+
 
 
 
