@@ -267,7 +267,36 @@ http://www.w3school.com.cn/cssref/pr_background.asp
 
 css 同时设置background的position和size的方法
 https://www.w3schools.com/cssref/css3_pr_background.asp
+css linear-gradient
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/linear-gradient
 
+
+设置 img 在 div 中水平居中和垂直居中
+https://www.cnblogs.com/abeam/p/7865671.html
+
+AngularJS ng-value 指令(这个是单向绑定的)
+http://www.runoob.com/angularjs/ng-ng-value.html
+
+ng-model、ng-bind、ng-value使用区别
+https://blog.csdn.net/laogadai/article/details/73442182
+
+css overflow
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/overflow
+
+Npm的配置管理及设置代理
+https://www.cnblogs.com/huang0925/archive/2013/05/17/3083207.html
+
+css text-decoration下划线 删除线 上划线属性样式
+http://www.divcss5.com/rumen/r129.shtml
+
+
+windows的diff工具
+https://stackoverflow.com/questions/6877238/what-is-the-windows-equivalent-of-the-diff-command
+
+
+box-shadow
+
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow
 
 todo:
 npm中文文档
@@ -298,6 +327,12 @@ https://medium.com/@var_bin/angularjs-webpack-lazyload-bb7977f390dd
 rxjs mergeMap(flatmap) ？（new Promise； promise 和rxjs流的关系； resultSelector）
 https://rxjs-cn.github.io/learn-rxjs-operators/operators/transformation/mergemap.html
 https://cn.rx.js.org/class/es6/Observable.js~Observable.html#instance-method-mergeMap
+
+CSS white-space 属性
+http://www.w3school.com.cn/cssref/pr_text_white-space.asp
+
+
+js异常处理
 
 
 
