@@ -298,6 +298,86 @@ box-shadow
 
 https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow
 
+CSS white-space 属性
+http://www.w3school.com.cn/cssref/pr_text_white-space.asp
+https://blog.csdn.net/qq_33706382/article/details/78328188
+
+Array.prototype.reduce()
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+
+
+kafka-topics.sh --describe显示结果解释
+http://blog.51cto.com/10120275/1865479
+Kafka集群扩展以及重新分布分区
+https://www.iteblog.com/archives/1611.html
+
+Kafka学习（六）Kafka集群的迁移与扩容
+https://birdben.github.io/2016/12/27/Kafka/Kafka%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%85%AD%EF%BC%89Kafka%E9%9B%86%E7%BE%A4%E7%9A%84%E8%BF%81%E7%A7%BB%E4%B8%8E%E6%89%A9%E5%AE%B9/
+
+JavaScript 错误 - Throw、Try 和 Catch
+http://www.w3school.com.cn/js/js_errors.asp
+https://wangdoc.com/javascript/features/error.html
+
+JavaScript的异常处理
+https://segmentfault.com/a/1190000011481099#articleHeader5
+
+sublime搜索与替换 - 多文件
+https://sublime-text.readthedocs.io/en/latest/search_and_replace/search_and_replace_files.html
+
+Object.setPrototypeOf()
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf
+
+Object.create()
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/create
+
+js抛出自定义异常（自定义异常类并继承Error基类）
+https://blog.csdn.net/zhang197093/article/details/52055850
+
+
+Function.prototype.call()
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/call
+
+
+Photoshop投影与CSS中box-shadow的转换
+https://blog.csdn.net/Lpandeng/article/details/72778451
+
+CSS 颜色
+http://www.runoob.com/cssref/css-colors.html
+
+Input tag How TO - Change Placeholder Color
+https://www.w3schools.com/howto/howto_css_placeholder.asp
+
+Can I apply multiple background colors with CSS3?
+https://stackoverflow.com/questions/6457406/can-i-apply-multiple-background-colors-with-css3
+
+JavaScript splice() 方法
+http://www.w3school.com.cn/js/jsref_splice.asp
+
+angular 模板里面循环对象
+https://stackoverflow.com/questions/35534959/access-key-and-value-of-object-using-ngfor
+
+
+使用 CSS 多重背景
+https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Background_and_Borders/Using_CSS_multiple_backgrounds
+ 
+background-position  background-size
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/background-position
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/background-size
+
+
+Offset a background image from the right using CSS
+https://stackoverflow.com/questions/5142405/offset-a-background-image-from-the-right-using-css
+
+How to remove border (outline) around text/input boxes?
+https://stackoverflow.com/questions/3397113/how-to-remove-border-outline-around-text-input-boxes-chrome
+
+angular echart
+https://golb.hplar.ch/2017/02/Integrate-ECharts-into-an-Ionic-2-app.html
+
+聊一聊 JavaScript 中的错误隔离
+http://taobaofed.org/blog/2016/11/10/prevent-prop-access-error-in-js/
+
 todo:
 npm中文文档
 https://www.npmjs.com.cn/
@@ -328,11 +408,26 @@ rxjs mergeMap(flatmap) ？（new Promise； promise 和rxjs流的关系； resul
 https://rxjs-cn.github.io/learn-rxjs-operators/operators/transformation/mergemap.html
 https://cn.rx.js.org/class/es6/Observable.js~Observable.html#instance-method-mergeMap
 
-CSS white-space 属性
-http://www.w3school.com.cn/cssref/pr_text_white-space.asp
 
 
-js异常处理
+
+
+JavaScript 基础 - 简单对象和属性
+http://xuzhijun.github.io/2016/04/29/javascript-object/
+
+
+？没有设置position relative时对绝对定位的元素overflow hidden不生效
+
+？line-height
+
+
+
+
+
+
+
+
+
 
 
 
