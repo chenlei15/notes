@@ -378,9 +378,101 @@ https://golb.hplar.ch/2017/02/Integrate-ECharts-into-an-Ionic-2-app.html
 聊一聊 JavaScript 中的错误隔离
 http://taobaofed.org/blog/2016/11/10/prevent-prop-access-error-in-js/
 
+jquery动画
+http://www.w3school.com.cn/jquery/jquery_animate.asp
+
+css scrollbar样式设置
+https://segmentfault.com/a/1190000012800450
+
+npm指定host
+https://stackoverflow.com/questions/37762125/set-default-host-and-port-for-ng-serve-in-config-file
+
+cookie读取、写入、删除插件jquery.cookie.js
+http://www.jq22.com/jquery-info254
+
+ngx-cookie-service
+https://www.npmjs.com/package/ngx-cookie-service
+
+使用pushState()改变url而不刷新
+http://caibaojian.com/pushstate.html
+
+angular modal
+https://ng-bootstrap.github.io/#/components/modal/examples
+
+JavaScript substr() 方法
+http://www.w3school.com.cn/js/jsref_substr.asp
+
+发送消息的跨域问题
+https://developer.mozilla.org/zh-CN/docs/Web/API/Window/postMessage
+
+Angular何时需要Unsubscribe
+https://segmentfault.com/a/1190000013271183
+
+
+iframe
+https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/iframe
+
+(Angular 5) javascript Image onload in angular
+https://stackoverflow.com/questions/50095165/angular-5-javascript-image-onload-in-angular
+
+视区相关单位vw, vh..简介以及可实际应用场景
+https://www.zhangxinxu.com/wordpress/2012/09/new-viewport-relative-units-vw-vh-vm-vmin/
+
+echart
+http://echarts.baidu.com/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts
+
+windows 查看文件被哪个进程占用
+https://www.cnblogs.com/youxin/p/3560111.html
+
+angular 部署
+https://angular.cn/guide/deployment
+
+bootstrap通过sass自定义样式
+http://getbootstrap.com/docs/4.0/getting-started/theming/
+
+
+Global scripts
+https://github.com/angular/angular-cli/wiki/stories-global-scripts
+
+git LF CRLF
+https://www.jianshu.com/p/450cd21b36a4
+https://stackoverflow.com/questions/17628305/windows-git-warning-lf-will-be-replaced-by-crlf-is-that-warning-tail-backwar/17628353
+
+css sprite雪碧图制作，使用以及相关，图文gif。
+https://juejin.im/post/58eb062861ff4b006b576d9c
+
+基于 Webpack 引入公共库的几种方式
+https://www.cnblogs.com/zichi/p/7787669.html
+
+webpack 外部扩展(externals)
+https://webpack.docschina.org/configuration/externals/
+
+webpack管理输出文件路径
+https://webpack.docschina.org/loaders/file-loader/
+
+webpack踩坑之路 (2)——图片的路径与打包
+https://www.cnblogs.com/ghost-xyx/p/5812902.html
+
+Using AngularJS with ES6 and Webpack
+http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/
+
+import、require、export、module.exports 混合使用详解
+https://juejin.im/post/5a2e5f0851882575d42f5609
+
+webpack jQuery
+https://stackoverflow.com/questions/28969861/managing-jquery-plugin-dependency-in-webpack
+
+load-static-json-file-in-webpack
+https://stackoverflow.com/questions/43735486/load-static-json-file-in-webpack
+
+HTML loader
+https://github.com/webpack-contrib/html-loader
 todo:
 npm中文文档
 https://www.npmjs.com.cn/
+
+带表达式的require
+https://webpack.docschina.org/guides/dependency-management/
 
 CommonJs
 
@@ -402,6 +494,8 @@ https://medium.com/@var_bin/angularjs-webpack-lazyload-bb7977f390dd
 
 
 
+
+
 研究angular文档
 
 rxjs mergeMap(flatmap) ？（new Promise； promise 和rxjs流的关系； resultSelector）
@@ -419,6 +513,23 @@ http://xuzhijun.github.io/2016/04/29/javascript-object/
 ？没有设置position relative时对绝对定位的元素overflow hidden不生效
 
 ？line-height
+
+
+？ngModule中的entryComponents是什么？
+https://segmentfault.com/a/1190000012159329
+
+？spring mvc 拦截器HandlerInterceptor里面的几个方法的区别 设置cookie用哪个
+
+AngularJS去掉的URL里的#号
+http://blog.fens.me/angularjs-url/
+
+
+
+
+
+
+
+
 
 
 
