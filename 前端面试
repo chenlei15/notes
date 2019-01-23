@@ -467,12 +467,81 @@ https://stackoverflow.com/questions/43735486/load-static-json-file-in-webpack
 
 HTML loader
 https://github.com/webpack-contrib/html-loader
+
+Webpack: load images from inline style (background-image)
+https://stackoverflow.com/questions/44096749/webpack-load-images-from-inline-style-background-image
+
+sourcemap
+https://webpack.docschina.org/configuration/devtool
+
+Get mode in webpack config [webpack 4]
+https://stackoverflow.com/questions/49274713/get-mode-in-webpack-config-webpack-4
+
+webpack中的hash、chunkhash、contenthash区别
+https://juejin.im/post/5a4502be6fb9a0450d1162ed
+
+webpack中的path、publicPath和contentBase
+https://juejin.im/post/5bb085dd6fb9a05cd24da5cf
+
+带表达式的require
+https://webpack.docschina.org/guides/dependency-management/
+
+jquery ajax
+http://www.w3school.com.cn/jquery/ajax_ajax.asp
+
+jquery-how-to-put-json-via-ajax
+https://stackoverflow.com/questions/1749272/jquery-how-to-put-json-via-ajax
+
+HTML DOM blur() 方法
+http://www.w3school.com.cn/htmldom/met_win_blur.asp
+
+HTML <a> 标签的 rel 属性
+http://www.w3school.com.cn/tags/att_a_rel.asp
+
+understanding-chrome-network-log-stalled-state
+https://stackoverflow.com/questions/29206067/understanding-chrome-network-log-stalled-state
+
+chrome-devtools network-performance
+https://developers.google.com/web/tools/chrome-devtools/network-performance/reference#timing-explanation
+
+chrome 了解资源加载时序
+https://www.css88.com/doc/chrome-devtools/network-performance/understanding-resource-timing
+
+Why chrome cached requests are taking time?
+
+https://stackoverflow.com/questions/38076008/why-chrome-cached-requests-are-taking-time
+
+CommonJS规范
+http://javascript.ruanyifeng.com/nodejs/module.html#toc2
+
+linux 查看某进程 并杀死进程 ps grep kill
+https://blog.csdn.net/shenhuan1104/article/details/75808146
+
+js 的 source map 会导致流量和带宽的浪费吗
+https://segmentfault.com/q/1010000000396077
+
+JavaScript Source Map 详解
+http://www.ruanyifeng.com/blog/2013/01/javascript_source_map.html
+
+浏览器记住密码的前端解决方案
+http://zakwu.me/2016/10/25/liu-lan-qi-ji-zhu-mi-ma-de-qian-duan-jie-jue-fang-an/
+
+前端工程精粹（一）：静态资源版本更新与缓存
+https://www.infoq.cn/article/front-end-engineering-and-performance-optimization-part1
+
+nohup和&后台运行，进程查看及终止
+http://www.cnblogs.com/baby123/p/6477429.html
+
+webpack add query string to files
+https://github.com/webpack/webpack/issues/2329
+
+Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案
+https://www.cnblogs.com/ihardcoder/p/5623411.html
 todo:
 npm中文文档
 https://www.npmjs.com.cn/
 
-带表达式的require
-https://webpack.docschina.org/guides/dependency-management/
+
 
 CommonJs
 
